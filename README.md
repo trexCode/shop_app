@@ -1,6 +1,6 @@
-# shop_app
+## SHOP_APP
 
-A new Flutter project.
+A new Flutter exercise
 
 ## Getting Started
 
